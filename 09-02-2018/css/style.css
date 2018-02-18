@@ -36,10 +36,48 @@ nav
 	width: 100%;
 }
 
+.propiedad
+{
+	width: 21%;
+	float: left;
+	margin: 15px;
+	border: 1px solid grey;
+	border-radius: 7px;
+}
+.propiedad .image img
+{	
+	border-radius: 7px 7px 0px 0px;
+	
+	width: 100%;
 
-/* fin propiedades del slider  */
+}
+.image
+{
+	border-bottom: 3px blue solid;
+	padding: 0px;
+	margin: 0px;
+	height: 208px;
+}
+#contenedor
+{
+	height: 1200px;
+}
+.descripcion p 
+{
+	color: grey;	
 
-809-923-5883
-milciades
+}
+.descripcion
+{	
+	font-size: 15px;
+	font-family: arial ;
+	padding: 10px;
+}
 
-m.pool24@gmail.com
+Misael: 5 +5
+Derbin: 5
+Cristopher: 5 +5 +5
+Carlos: 5
+yira: 5
+Daniel : 5 +5 +5
+evel: 5
