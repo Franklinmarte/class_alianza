@@ -74,10 +74,40 @@ nav
 	padding: 10px;
 }
 
-Misael: 5 +5
-Derbin: 5
-Cristopher: 5 +5 +5
-Carlos: 5
-yira: 5
-Daniel : 5 +5 +5
-evel: 5
+.azul, .contenedor_img_verde, .contenedor_img_azul, .verde
+{
+	width: 50%;
+	float: left;
+	
+}
+.contenedor_img_azul img, .contenedor_img_verde img
+{
+	width: 100%;
+}
+.azul
+{
+	background-color: dodgerblue;
+	height: 331px;	
+	text-align: center;
+	color: white;
+}
+.azul h2
+{
+	padding-top: 80px;
+}
+.verde
+{
+	background-color: rgb(18, 170, 120);
+	height: 331px;	
+	text-align: center;
+	color: white;
+	margin-top: -5px;
+}
+.verde h2
+{
+	padding-top: 80px;
+}
+.contenedor_img_verde
+{
+	margin-top: -5px;
+}
